@@ -2,7 +2,7 @@
 - 👀 I’m interested in Software Development!  
 - 🌱 I’m currently learning AWS and Python
 - 💞️ I’m looking to collaborate on Websites!
-- 📫 How to reach me ; Sydonie.Stipes@outlook.com
+- 📫 How to reach me ; 
 
 <!---
 SydonieS/SydonieS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
